@@ -1,0 +1,160 @@
+{
+  "book_id": "african-independence-documentary-gender-dynamics",
+  "title": "The Frames Between Us",
+  "tagline": "In the flickering light of colonial propaganda, a teacher and a journalist document the unwritten revolution of women's labor.",
+  "target_words": 70000,
+  "actual_words": 75673,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Gaze of Empire",
+    "The Unrecorded Economy",
+    "Literacy as Subversion",
+    "Domesticity as a Political Stage"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Projector's Knot",
+      "words": 3153
+    },
+    {
+      "ch": 2,
+      "title": "The Mathematics of Life",
+      "words": 3153
+    },
+    {
+      "ch": 3,
+      "title": "Ink and Groundnut Soup",
+      "words": 3153
+    },
+    {
+      "ch": 4,
+      "title": "The Official Future",
+      "words": 3153
+    },
+    {
+      "ch": 5,
+      "title": "Whispers in the Market",
+      "words": 3153
+    },
+    {
+      "ch": 6,
+      "title": "The Schoolhouse Ledger",
+      "words": 3153
+    },
+    {
+      "ch": 7,
+      "title": "A Stiff Suit's Proposal",
+      "words": 3153
+    },
+    {
+      "ch": 8,
+      "title": "River's Burden, Pipe's Promise",
+      "words": 3153
+    },
+    {
+      "ch": 9,
+      "title": "The Sentinel's First Draft",
+      "words": 3153
+    },
+    {
+      "ch": 10,
+      "title": "Kerosene Stoves and Cold Embers",
+      "words": 3153
+    },
+    {
+      "ch": 11,
+      "title": "Arrested Type",
+      "words": 3153
+    },
+    {
+      "ch": 12,
+      "title": "The Women's Court",
+      "words": 3153
+    },
+    {
+      "ch": 13,
+      "title": "Burning Celluloid",
+      "words": 3153
+    },
+    {
+      "ch": 14,
+      "title": "The Chief's Calculus",
+      "words": 3153
+    },
+    {
+      "ch": 15,
+      "title": "Ama's Syllabus",
+      "words": 3153
+    },
+    {
+      "ch": 16,
+      "title": "Press Gang",
+      "words": 3153
+    },
+    {
+      "ch": 17,
+      "title": "The Boycott's Arithmetic",
+      "words": 3153
+    },
+    {
+      "ch": 18,
+      "title": "A Different Lens",
+      "words": 3153
+    },
+    {
+      "ch": 19,
+      "title": "The Town Meeting",
+      "words": 3153
+    },
+    {
+      "ch": 20,
+      "title": "Distributed Truths",
+      "words": 3153
+    },
+    {
+      "ch": 21,
+      "title": "The Unfilmed March",
+      "words": 3153
+    },
+    {
+      "ch": 22,
+      "title": "The Editor's Gambit",
+      "words": 3153
+    },
+    {
+      "ch": 23,
+      "title": "Independence of the Hearth",
+      "words": 3153
+    },
+    {
+      "ch": 24,
+      "title": "The Stories We Project",
+      "words": 3153
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character 'reads' a colonial documentary not for its narration, but for the unscripted truths in the background—a worker's expression, the state of a child's clothes, the gender of those performing labor.",
+      "Create a monologue from the perspective of a market woman explaining her 'mathematics'—the real cost of the new borehole, school fees, or a bag of rice—to a male journalist or official.",
+      "Draft a 'counter-documentary' script for a short film Ama and Samuel might make, using only found footage and voiceover from interviews with women.",
+      "Write a letter from Ama to a former student, now a young woman, explaining why learning to write her own name was, as Samuel said, 'a revolutionary act.'"
+    ],
+    "technical": [
+      "Build a simple web app that presents two parallel narratives side-by-side: the official transcript of a colonial documentary and a 'crowdsourced' annotation layer where users can add the real stories, costs, and perspectives hidden in each frame.",
+      "Create a data visualization project that maps the 'unrecorded economy' of women's labor (water fetching, food processing, child care, small-scale trade) against the 'official' infrastructure projects highlighted in colonial propaganda."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Tsitsi Dangarembga",
+      "Ama Ata Aidoo",
+      "Ousmane Sembène",
+      "Mikhail Kaufman"
+    ]
+  },
+  "cover_prompt": "A determined African woman, her hands stained with ink and soil, carefully types a clandestine newsletter on a battered typewriter, her gaze defiant and focused, [while in the blurred background, colonial propaganda films flicker on a makeshift screen and other women engage in unseen domestic and market labor]. The scene is set in a modest 1950s home that doubles as a secret press, with peeling floral wallpaper, a single electric bulb hanging from a wire, and stacks of handwritten ledgers documenting informal trade, all bathed in the dual glow of the projector and the warm, intimate light of a kerosene lamp. In the evocative, textured, and socially resonant style of photographer and filmmaker Sarah Maldoror, capturing the dignity and quiet resistance of everyday life. Book cover framing, centered composition with a shallow depth of field, shot from a low, intimate angle that elevates the subject. Cinematic chiaroscuro lighting with a palette of deep amber, rich sepia, burnt umber, and muted olive green, punctuated by the cold blue-white flicker of the propaganda film. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
