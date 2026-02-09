@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The projector ate another frame. The celluloid slap echoed in the hot, close dark of the community hall, a sharp, mechanical punctuation to the British narrator’s plummy assurance that the dam was a triumph of modern engineering. On the whitewashed wall, the grainy image of the Governor, scissors poised over a ribbon, juddered, froze, then dissolved into a frantic, flapping white light.
@@ -81,6 +83,8 @@ She held the journalist’s gaze. The night sounds seemed to recede—the cricke
 She turned and walked towards Kofi, feeling Samuel Mensah’s eyes on her back, feeling the weight of the unspoken words she had agreed, somehow, to give him. The familiar path home felt different under her feet. The projected world of the film was gone, but a new and palpable tension had taken its place, humming in the warm, ink-black air.
 
 ---
+
+# Chapter 2
 
 ## **Chapter 2**
 
@@ -179,6 +183,8 @@ After he left, the compound felt different. The familiar sounds—the goats blea
 Esi came to stand beside her, watching the empty lane. “He sees you,” she said quietly. “That is a dangerous thing for a woman, to be seen by such men. But it is also the beginning of everything.”
 
 ---
+
+# Chapter 3
 
 ## **Chapter 3**
 
